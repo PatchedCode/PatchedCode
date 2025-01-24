@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @PatchedCode
-- 👀 I’m interested in Lancer
-- 🌱 I’m currently learning JSON
-- 💞️ I’m looking to collaborate on nothing so far
-- 📫 How to reach me the void
+Hello! I'm Patchedcode because of how long I take on maintenance. Let's make something truly interesting!
 
 <!---
 PatchedCode/PatchedCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
